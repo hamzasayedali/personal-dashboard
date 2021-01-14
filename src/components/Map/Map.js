@@ -39,5 +39,5 @@ const containerStyle = {
 
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyA4p4sRI1JlaZFIv36ozYniAbf0k9yEdC8'
+  apiKey: ''
 })(MapPage);
